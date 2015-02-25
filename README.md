@@ -7,6 +7,7 @@ Basically, I'd like to use this data and the building bulk data to help predict 
 
 ---
 
+		list = [1,2,3]
 
 ####Links:
 * [Taxi Data on Google Big Query](https://bigquery.cloud.google.com/table/833682135931:nyctaxi.trip_data)
