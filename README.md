@@ -9,7 +9,7 @@ Basically, I'd like to use this data and the building bulk data to help predict 
 
 
 ####Links:
-* [Taxi Data on Google Big Query]
+* [Taxi Data on Google Big Query](https://bigquery.cloud.google.com/table/833682135931:nyctaxi.trip_data)
 * [Taxi Data as Foiled from Chris Whong](http://chriswhong.com/open-data/foil_nyc_taxi/)
 
 * [MapBox Blog Post](https://www.mapbox.com/blog/nyc-taxi/)
