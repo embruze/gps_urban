@@ -7,10 +7,19 @@ Basically, I'd like to use this data and the building bulk data to help predict 
 
 ---
 
-		list = [1,2,3]
+Danny Tasks:
+
+Choose a date. 
+Build a Kernel Density. 
+Print out 20 rows of data. 
+	
 
 ####Links:
 * [Taxi Data on Google Big Query](https://bigquery.cloud.google.com/table/833682135931:nyctaxi.trip_data)
+
+* (SQL Query 1000)[https://bigquery.cloud.google.com/results/api-project-613643693354:job_mGbEYdCir9yzU1sgmMHrS9LVZ_8]
+
+
 * [Taxi Data as Foiled from Chris Whong](http://chriswhong.com/open-data/foil_nyc_taxi/)
 
 * [MapBox Blog Post](https://www.mapbox.com/blog/nyc-taxi/)
