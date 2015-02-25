@@ -5,7 +5,11 @@ I'd like to analyze multi-path error in the pickup/dropoff coordinates as it rel
 
 Basically, I'd like to use this data and the building bulk data to help predict error in GPS (in this case Taxi's rather than study subjects) as distance from nearest Roadbed and in the areal unit of Census Block. I can handle GIS processing but not savvy with statistical analysis.
 
+---
+
+
 ####Links:
+* [Taxi Data on Google Big Query]
 * [Taxi Data as Foiled from Chris Whong](http://chriswhong.com/open-data/foil_nyc_taxi/)
 
 * [MapBox Blog Post](https://www.mapbox.com/blog/nyc-taxi/)
