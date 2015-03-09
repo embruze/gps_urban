@@ -21,6 +21,7 @@ Print out 20 rows of data.
 
 
 * [Taxi Data as Foiled from Chris Whong](http://chriswhong.com/open-data/foil_nyc_taxi/)
+	* [Smaller files by Month](http://www.andresmh.com/nyctaxitrips/) 
 
 * [MapBox Blog Post](https://www.mapbox.com/blog/nyc-taxi/)
 
